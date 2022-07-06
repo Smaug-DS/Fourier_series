@@ -1,0 +1,42 @@
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe.config
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.pdb
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Form1.resources
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Properties.Resources.resources
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.GenerateResource.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.CoreCompileInputs.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.exe
+Z:\КУРСАНТЫ\SMAUG DS\Образование\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.pdb
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe.config
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.pdb
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Form1.resources
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Properties.Resources.resources
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.GenerateResource.cache
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.CoreCompileInputs.cache
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.exe
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.pdb
+Z:\Леонов И.Ф\Test\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csprojAssemblyReference.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe.config
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.pdb
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csprojAssemblyReference.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Form1.resources
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Properties.Resources.resources
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.result.resources
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.GenerateResource.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.CoreCompileInputs.cache
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.exe
+Z:\КУРСАНТЫ\SMAUG DS\Образование\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.pdb
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe.config
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.exe
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\bin\Release\TestFourier.pdb
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.AssemblyReference.cache
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.SuggestedBindingRedirects.cache
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Form1.resources
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.Properties.Resources.resources
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.result.resources
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.GenerateResource.cache
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.csproj.CoreCompileInputs.cache
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.exe
+D:\___CODING___\Projects\TestFourier\TestFourier\TestFourier\obj\Release\TestFourier.pdb
