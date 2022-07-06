@@ -5,6 +5,3 @@ Microsoft .NET Framework 4.8 - https://go.microsoft.com/fwlink/?linkid=2088631
 Приложение для проверки базовых знаний рядов Фурье
 
 Файл .exe назодится Fourier_series/TestFourier/TestFourier/bin/Release/TestFourier.exe
-
-Инструкция к использованию:
-
